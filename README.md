@@ -1,0 +1,3 @@
+If you are new to github and dont know where to find my blogs about bug bounty, web app penetration testin...
+Just go on repository Blog--Bug Bounty. Click it and blogs should be automatically there or go on my tags and that is it.
+Hope you will enjoy it.
